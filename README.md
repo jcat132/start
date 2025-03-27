@@ -1,2 +1,2 @@
-# start
-foo bar
+# My project
+Explore coding on the wide world web.
